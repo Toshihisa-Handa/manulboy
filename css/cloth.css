@@ -1,0 +1,55 @@
+
+/* トップエリアーーーーー */
+.top-wrapper{
+  margin:10% 0 0 10%;
+}
+
+
+.top-area .title{
+  font-size: 4rem;
+  color:rgb(255, 255, 255);
+}
+
+/* トップエリアここまでーーーーー */
+
+/* メインエリアーーーーー */
+
+.main-wrapper{
+margin-top:150px;
+}
+
+.main-container{
+  width:100%;
+  margin:auto;
+}
+
+
+.img-box{
+  width:50%;
+  padding:0 50px 0 50px;
+}
+
+.images-test img{
+  width:100%
+}
+
+
+
+
+
+
+  /* スマホ向けレイアウト */
+  @media all and (max-width: 665px) {
+
+    .main-area{
+      margin-left: 10%;
+    }
+
+    .img-box{
+      width:50%;
+      padding:0 20px 0 20p
+
+    
+
+  }
+  }
